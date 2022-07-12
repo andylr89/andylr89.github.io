@@ -1,0 +1,9 @@
+Background Image Link>
+https://www.ncsa.illinois.edu/wp-content/uploads/2021/01/image-from-rawpixel-id-3284284-original-1-scaled.jpg
+
+Font>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap" rel="stylesheet"> 
+
+CSS Font> font-family: 'Gentium Book Plus', serif;
